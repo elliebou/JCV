@@ -1,6 +1,6 @@
 # JCV
 
-**This is the repository used to build the small and medium segment of Jamestown Canyon virus.**
+**This is the repository used to build the small, medium, and large segment of Jamestown Canyon virus.**
 
 ---
 
